@@ -253,24 +253,24 @@
 
 ## APP运行效果
 ### 欢迎页
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obphvbidj20j00xyn0b.jpg)
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obqgf2ndj20j00xyjub.jpg)
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obqqhipwj20j00xy778.jpg)
-
+![](http://library.luhailiang.top/uploads/2019/06/03/3/8/4538cbd5-98d7-4f76-aa71-3c51eca6b332.png)
+![](http://library.luhailiang.top//uploads/2019/06/03/4/0/b3314008-2491-4acc-ad7a-66847dd277d0.png)
+![](http://library.luhailiang.top/uploads/2019/06/03/5/8/95f7dac0-573c-48e1-bc2b-a79b29e27c87.png)
 ### 登录页
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obrbvz9bj20j00xyn06.jpg)
+![](http://library.luhailiang.top/uploads/2019/06/03/6/3/842c4f97-4d41-435a-ac06-2617a7ddeae4.png)
 
 ### 主页(所有图书)
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obrwysovj20j00xytdw.jpg)
+![](http://library.luhailiang.top/uploads/2019/06/03/5/12/1073fde9-5f74-4d98-9e24-0fa1d077b5a9.png)
+
 
 ### 图书详情页
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obsloh3fj20j00xydkz.jpg)
+![](http://library.luhailiang.top/uploads/2019/06/03/9/12/d86cc84e-1535-4cbb-b43a-78f9450e99f8.png)
 
 ### 个人信息及功能菜单页
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obt5tw4yj20j00xy0x7.jpg)
+![](http://library.luhailiang.top/uploads/2019/06/03/14/7/38104151-bdf8-49a2-9979-3279c8c31330.png)
 
 ### 借阅记录页
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obtmd8dvj20j00xyq7h.jpg)
+![](http://library.luhailiang.top/uploads/2019/06/03/5/2/2c9802d3-cc4d-4dbb-9676-7dd5d615c13c.png)
 
 ### 关于页
-![](https://ws1.sinaimg.cn/mw690/aeead39fly1g3obu4hphuj20j00xyq6k.jpg)
+![](http://library.luhailiang.top/uploads/2019/06/03/5/9/716f348f-af43-4207-bc44-1a036a1ccf64.png)
